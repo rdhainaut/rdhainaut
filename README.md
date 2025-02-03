@@ -28,10 +28,11 @@ With over 12 years of experience, I craft applications that not only perform wel
 
 ### 🛠️ Skills
 
-- **Frontend:** HTML5, CSS3, Typescript/Javascript, VueJs v2-3, Angular v6-17
+- **Frontend:** HTML5, CSS3, Typescript/Javascript, VueJs v2-3, Angular v6-19
 - **Backend:** Asp.net/C# (.Net 3.5-7), WebApi + OData / WCF
 - **Databases:** SQL Server, MySQL & ORM (Entity framework)
 - **Server** IIS, Azure
+- **Platform** Azure DevOps, Azure, Github
 - **Languages:** 🇫🇷 French, 🇬🇧 English
 
 ---
