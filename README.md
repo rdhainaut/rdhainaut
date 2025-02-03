@@ -15,7 +15,7 @@ With over 12 years of experience, I craft applications that not only perform wel
 
 ### 💼 Experience & Projects
 
-- **Actiris:** Agile development of full-stack solutions, enhancing and troubleshooting existing applications. Working with Asp.net (v3.5-5), C#, Mvc and Angular (v7-v15).
+- **Actiris:** Agile development of full-stack solutions, enhancing and troubleshooting existing applications. Working with Asp.net (v3.5-5), C#, Mvc and Angular (v7-v19).
 - **Freelance:** Designing, analyzing and developing web applications. Working with Vuejs (v2-3) and Asp.net (vCore-v7) + Entity framework/OData.
 - **IT-Optics:** Analyzing and developing web solutions using PHP 5 and Symfony 2.
 - 🌐 Featured Projects:
